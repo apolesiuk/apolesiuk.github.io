@@ -96,3 +96,10 @@ footer{
     border-radius:0px 0px 30px 30px;
     clear:both;
 }
+
+footer a{
+    text-decoration: none;
+    font-style: normal;
+    color: #cc9966;
+    text-align: center;
+}
