@@ -32,6 +32,13 @@ nav{
     font-weight: bold;
 }
 
+footer a{
+    text-decoration: none;
+    font-style: normal;
+    color: #cc9966;
+    text-align: center;
+}
+
 nav ul{
     list-style-type: none;
     text-align: center;
